@@ -8,6 +8,6 @@ if __name__ == "__main__":
         .appName("hello_spark")\
         .getOrCreate()
 
-    print("Hello spark world, welcome <your-name> ... ")
+    print("Hello spark world, welcome Barush ... ")
 
     spark.stop()
